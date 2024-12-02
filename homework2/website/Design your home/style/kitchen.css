@@ -1,0 +1,41 @@
+body {
+    background-color: blueviolet;
+    text-align: left;
+    width: 70%;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.island {
+    display: flex;
+    width: 95%;
+    height: 200px;
+    padding: 1%;
+    font-size: 100%;
+    line-height: 1.5em;
+    font-family: "Pacifico";
+}
+
+.wall {
+    display: flex;
+    width: 95%;
+    height: 200px;
+    padding: 1%;
+    font-size: 100%;
+    line-height: 1.5em;
+    font-family: "Pacifico";
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url(../fonts/Pacifico-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
