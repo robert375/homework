@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\domasna\domasna\bin\Debug\net8.0\domasna.exe
+C:\Users\User\source\repos\domasna\domasna\bin\Debug\net8.0\domasna.deps.json
+C:\Users\User\source\repos\domasna\domasna\bin\Debug\net8.0\domasna.runtimeconfig.json
+C:\Users\User\source\repos\domasna\domasna\bin\Debug\net8.0\domasna.dll
+C:\Users\User\source\repos\domasna\domasna\bin\Debug\net8.0\domasna.pdb
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.AssemblyInfo.cs
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.dll
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\refint\domasna.dll
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.pdb
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\domasna.genruntimeconfig.cache
+C:\Users\User\source\repos\domasna\domasna\obj\Debug\net8.0\ref\domasna.dll
