@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DOmasna2\DOmasna2\bin\Debug\net8.0\DOmasna2.exe
+C:\Users\User\source\repos\DOmasna2\DOmasna2\bin\Debug\net8.0\DOmasna2.deps.json
+C:\Users\User\source\repos\DOmasna2\DOmasna2\bin\Debug\net8.0\DOmasna2.runtimeconfig.json
+C:\Users\User\source\repos\DOmasna2\DOmasna2\bin\Debug\net8.0\DOmasna2.dll
+C:\Users\User\source\repos\DOmasna2\DOmasna2\bin\Debug\net8.0\DOmasna2.pdb
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.AssemblyInfo.cs
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.dll
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\refint\DOmasna2.dll
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.pdb
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\DOmasna2.genruntimeconfig.cache
+C:\Users\User\source\repos\DOmasna2\DOmasna2\obj\Debug\net8.0\ref\DOmasna2.dll
